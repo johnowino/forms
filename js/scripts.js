@@ -16,7 +16,7 @@
 //       event.preventDefault();
 //   });
 // });
- // upated code to capture out form inpus //
+ // upated code to capture our form inpus //
 
  $(document).ready(function() {
   $("#blanks form").submit(function(event) {
